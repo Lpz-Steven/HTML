@@ -1,0 +1,10 @@
+body{
+    position: relative;
+    font-size: .9rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(/img/uni.jpg);
+    background-position:unset;
+    color: white;
+    background-size: cover;
+}
+

@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(102, 240, 10);
+    font-size: 1.5rem;
+}
+.container{
+    background-color:rgb(249, 12, 12);
+    width: 30%;
+    color: black;
+    padding: 2rem;
+}

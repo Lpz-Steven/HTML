@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(206, 25, 237);
+
+}
+.container{
+    background-color: rgb(107, 234, 27);
+    width: 50%;
+    padding: 2rem;
+    margin: 0 auto;
+}

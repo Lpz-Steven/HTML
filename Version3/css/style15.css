@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+}
+h3{
+    text-align: center;
+}
+form{
+    background-color: pink;
+    width: 70%;
+    margin: 0 auto;
+}

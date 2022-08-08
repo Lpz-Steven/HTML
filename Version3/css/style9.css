@@ -1,0 +1,21 @@
+body{
+    position: relative;
+}
+
+.container2{
+    background-color: aquamarine;
+    width: 40%;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+.container3{
+    background-color: pink;
+    width: 40%;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+.image{
+    position: absolute;
+    top: 0;
+    left: 40rem;
+}
