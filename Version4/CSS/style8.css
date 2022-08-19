@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    width: 1000px;
+    height: 1800px;
+    background-color:rgba(45, 239, 232, 0.928);
+    margin: 0 auto;
+}
+.header{
+    width: 1000px;
+    background-color:rgba(241, 105, 212);
+    height: 200px;  
+}
+.nav{
+    width: 1000px;
+    background-color: rgb(247, 247, 57);
+    height: 100px;
+}
+.main{
+    width: 1000px;
+    height: 1300px;
+    background-color:rgb(13, 238, 246);
+    font-size: 20px;
+}
+.footer{
+    width: 1000px;
+    height: 200px;
+    background-color: rgba(241, 105, 212);
+}
+h2{
+    text-align: center;
+}
